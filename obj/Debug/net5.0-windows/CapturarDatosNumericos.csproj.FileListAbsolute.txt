@@ -1,0 +1,16 @@
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\CapturarDatosNumericos.exe
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\CapturarDatosNumericos.deps.json
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\CapturarDatosNumericos.runtimeconfig.json
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\CapturarDatosNumericos.runtimeconfig.dev.json
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\CapturarDatosNumericos.dll
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\ref\CapturarDatosNumericos.dll
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\bin\Debug\net5.0-windows\CapturarDatosNumericos.pdb
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.csproj.AssemblyReference.cache
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.AssemblyInfoInputs.cache
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.AssemblyInfo.cs
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.dll
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\ref\CapturarDatosNumericos.dll
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.pdb
+C:\Users\Xiomara Arroliga\Desktop\C#\Seccion10\CapturarDatosNumericos\obj\Debug\net5.0-windows\CapturarDatosNumericos.genruntimeconfig.cache

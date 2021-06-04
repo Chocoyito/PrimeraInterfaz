@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CapturarDatosNumericos/1.0.0": {
+        "runtime": {
+          "CapturarDatosNumericos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapturarDatosNumericos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
